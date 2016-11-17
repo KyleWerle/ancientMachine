@@ -1,14 +1,14 @@
-artist	: wo3__
-album 	: ancient machine__
-label 	: VPUL005 : voidpulse systems__
-artwork : Linzi Werle__
-__
-voidpulse.bandcamp.com__
-facebook.com/voidpulse/__
-__
-usage, CC, BY;__
-no warranties;__
-contact : werle.kyle@gmail.com;__
+artist	: wo3<br />
+album 	: ancient machine<br />
+label 	: VPUL005 : voidpulse systems<br />
+artwork : Linzi Werle<br />
+<br />
+voidpulse.bandcamp.com<br />
+facebook.com/voidpulse/<br />
+<br />
+usage, CC, BY;<br />
+no warranties;<br />
+contact : werle.kyle@gmail.com;<br />
 
 REQUIRES PURE DATA VANILLA
 made in pd vanilla v0.47-1
