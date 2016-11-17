@@ -1,34 +1,34 @@
 # ancientMachine
 Generative MIDI Sequencer
 
-artist	: wo3
-album 	: ancient machine
-label 	: VPUL005 : voidpulse systems
-artwork : Linzi Werle
+-artist	: wo3
+-album 	: ancient machine
+-label 	: VPUL005 : voidpulse systems
+-artwork : Linzi Werle
 
-voidpulse.bandcamp.com
-facebook.com/voidpulse/
+-voidpulse.bandcamp.com
+-facebook.com/voidpulse/
 
-usage, CC, BY;
-no warranties;
-contact : werle.kyle@gmail.com;
+-usage, CC, BY;
+-no warranties;
+-contact : werle.kyle@gmail.com;
 
-REQUIRES PURE DATA VANILLA
-made in pd vanilla v0.47-1
-https://puredata.info/
+-REQUIRES PURE DATA VANILLA
+-made in pd vanilla v0.47-1
+-https://puredata.info/
 
-this is a MIDI sequencer and makes no sound
-you must route MIDI from pure data
-to a MIDI compliant sound generator
-locate pd startup for more info
+-this is a MIDI sequencer and makes no sound
+-you must route MIDI from pure data
+-to a MIDI compliant sound generator
+-locate pd startup for more info
 
- FOR BANDCAMP DOWNLOAD 
-{
-you must change the extension of 
-wo3 - VPUL005 - ancient machine - ancientMachine.txt
-to 
-wo3 - VPUL005 - ancient machine - ancientMachine.zip
-}
+ -FOR BANDCAMP DOWNLOAD 
+-{
+-you must change the extension of 
+-wo3 - VPUL005 - ancient machine - ancientMachine.txt
+-to 
+-wo3 - VPUL005 - ancient machine - ancientMachine.zip
+-}
 
 uncompress .zip file and place folder in drive architecture
 connect MIDI devices
