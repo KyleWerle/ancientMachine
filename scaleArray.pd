@@ -1,0 +1,7 @@
+#N canvas 228 82 450 300 10;
+#N canvas 0 50 450 110 (subpatch) 0;
+#X array scaleArray 7 float 3;
+#A 0 1 4 6 6 9 11 13;
+#X coords 0 24 7 0 100 50 1 0 0;
+#X restore 100 115 graph;
+#X coords 0 -1 1 1 100 65 2 100 100;
