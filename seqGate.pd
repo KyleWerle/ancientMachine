@@ -1,4 +1,4 @@
-#N canvas 24 50 575 462 10;
+#N canvas 212 88 575 462 10;
 #X obj 66 219 inlet;
 #X obj 261 180 inlet;
 #X text 262 154 randomize gate sequence;
@@ -29,8 +29,8 @@
 #X obj 381 41 inlet;
 #X obj 381 64 t b b f f f f;
 #X obj 311 222 neuron \$1;
-#X obj 355 341 neuron \$1;
 #X obj 261 340 neuron 2;
+#X obj 360 341 random \$1;
 #X connect 0 0 10 0;
 #X connect 1 0 16 0;
 #X connect 4 0 5 0;
@@ -48,8 +48,8 @@
 #X connect 15 1 14 1;
 #X connect 16 0 4 0;
 #X connect 16 1 26 0;
-#X connect 17 0 28 0;
-#X connect 17 1 27 0;
+#X connect 17 0 27 0;
+#X connect 17 1 28 0;
 #X connect 19 0 18 0;
 #X connect 20 0 5 1;
 #X connect 20 0 7 0;
@@ -60,9 +60,9 @@
 #X connect 25 1 19 0;
 #X connect 25 2 21 1;
 #X connect 25 3 26 1;
-#X connect 25 4 27 1;
+#X connect 25 4 28 1;
 #X connect 25 5 19 1;
 #X connect 26 0 20 1;
-#X connect 27 0 12 1;
-#X connect 28 0 12 0;
+#X connect 27 0 12 0;
+#X connect 28 0 12 1;
 #X coords 0 -1 1 1 140 80 1 100 100;
